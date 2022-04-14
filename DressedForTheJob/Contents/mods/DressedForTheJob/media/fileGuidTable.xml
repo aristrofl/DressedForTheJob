@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Emt_Vest_Red.xml</path>
+		<guid>77fbd4e6-9884-4dd2-aaf6-c42312928f94</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Suspenders.xml</path>
+		<guid>9996ff28-79f7-4ec4-9209-402f0560db03</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Pants_Baseball_KY.xml</path>
+		<guid>a3a98b0c-2b41-4c7f-b0d6-87165c99f1f9</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Pants_Baseball_Rangers.xml</path>
+		<guid>bd638ffd-1fff-4b2d-aa70-3eff6ce53f1a</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Pants_Baseball_Z.xml</path>
+		<guid>bf857f0c-0790-4c3d-bfd1-fb05dfc6736f</guid>
+	</files>
+</fileGuidTable>
